@@ -1,4 +1,4 @@
-package com.hharris.homewificonnect2
+package com.hharris.wifi_connect
 
 // Check internet connection dependencies
 
@@ -162,9 +162,6 @@ class MainActivity : AppCompatActivity() {
                 val suggestionsList: MutableList<WifiNetworkSuggestion> = ArrayList()
                 suggestionsList.add(suggestion)
                 wifiManager.removeNetworkSuggestions(suggestionsList)
-            }
-            else -> {
-                // Nothing needed here
             }
         }
     }

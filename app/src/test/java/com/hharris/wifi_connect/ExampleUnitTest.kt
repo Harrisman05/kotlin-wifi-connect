@@ -1,4 +1,4 @@
-package com.hharris.homewificonnect2
+package com.hharris.wifi_connect
 
 import org.junit.Test
 

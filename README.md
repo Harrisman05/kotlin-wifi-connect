@@ -49,7 +49,7 @@ After cloning the repository the user needs to open the project in Android Studi
   
   4) Press Connect Wi-Fi
   
-  5) The Wi-Fi Setting Panel should pop up:
+  5) The Wi-Fi Settings Panel should pop up:
   
 <p align="center">
   <img src="wifi_setting_panel_pre_connection.png" width="250">

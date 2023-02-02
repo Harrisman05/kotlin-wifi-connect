@@ -37,7 +37,7 @@ After cloning the repository the user needs to open the project in Android Studi
 
 ## Using App
 
-  1) Open the project on Android Studio and follow the steps listed there to install the app on a physical device via Micro-USB cable -          https://developer.android.com/studio/run/device
+  1) Open the project on Android Studio and follow the steps listed in the following link to install the app on a physical device via Micro-USB cable -          https://developer.android.com/studio/run/device
   
   2) After app installation, disconnect the device from a network if it is connected to one
   
